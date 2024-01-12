@@ -1,0 +1,10 @@
+dependencies:
+  esp_modem:
+    version: '>=0.1.28,<2.0.0'
+  idf:
+    version: '>=4.4'
+  usb_host_cdc_acm:
+    version: 2.*
+description: USB DTE plugin for esp_modem component
+url: https://github.com/espressif/idf-extra-components/tree/master/usb/esp_modem_usb_dte
+version: 1.1.0~1

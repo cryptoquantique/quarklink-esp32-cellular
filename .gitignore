@@ -1,0 +1,6 @@
+.devcontainer
+.vscode
+.pio
+build
+sdkconfig.old
+dependencies.lock
